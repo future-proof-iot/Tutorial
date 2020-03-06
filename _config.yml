@@ -8,7 +8,7 @@ sass:
   style: uncompressed
 
 url: https://future-proof-iot.github.io/Tutorial/
-baseurl: 
+baseurl: https://future-proof-iot.github.io/Tutorial/
 
 #deadlines:
 #- name: Registration
@@ -46,7 +46,7 @@ navbar_list:
 # Configuration for asides.html
 asides:
   github: false
-  links: false
+  #links: true
   # tweets: false
 
 # google_analytics:
