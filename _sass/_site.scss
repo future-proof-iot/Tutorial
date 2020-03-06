@@ -3,9 +3,12 @@ header h1, header h2 {
 }
 
 #site-title {
-    background-image: url("images/FU-Berlin-logo.png"), url("images/RIOT-logo.png"), url("images/Inria-Logo.png");
-    background-repeat: no-repeat, no-repeat, no-repeat;
-    background-position: right top, right 315px top, right 415px top;;
+//    background-image: url("images/FU-Berlin-logo.png"), url("images/RIOT-logo.png"), url("images/Inria-Logo.png");
+//    background-repeat: no-repeat, no-repeat, no-repeat;
+//    background-position: right top, right 315px top, right 415px top;;
+    background-image: url("images/RIOT-logo.png");
+    background-repeat: no-repeat;
+    background-position: right top;;
 }
 
 // asides: sidebar
