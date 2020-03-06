@@ -40,8 +40,8 @@ navbar_list:
   link: call-for-participation
 - name: Venue
   link: venue
-- name: Registration
-  link: https://www.ieee-security.org/TC/EuroSP2020/
+#- name: Registration
+#  link: https://www.ieee-security.org/TC/EuroSP2020/
 
 # Configuration for asides.html
 asides:
