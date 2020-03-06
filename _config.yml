@@ -1,1 +1,68 @@
-theme: jekyll-theme-minimal
+safe: true
+source: .
+destination: ./_site
+highlighter: rouge
+markdown: kramdown
+exclude: ['CNAME', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', '.sass-cache']
+sass:
+  style: uncompressed
+
+url: https://future-proof-iot.github.io/Tutorial/
+baseurl: 
+
+#deadlines:
+#- name: Registration
+#  date: May 17, 2020
+#- name: IEEE EuroS&P RIOT Tutorial
+#  date: June 19, 2020
+
+# Configuration for site
+title: IEEE EuroS&P RIOT Tutorial
+description: June 19, 2020, Genova, Italy
+author: Organizers
+email:
+logo: images/RIOT-logo.png
+
+responsive_bp: 768
+
+permalink: /:page.html
+
+navbar_list:
+- name: Home
+  link: /
+- name: Background
+  link: background
+- name: Agenda
+  link: agenda
+- name: Preparation
+  link: preparation
+- name: Call for Participation
+  link: call-for-participation
+- name: Venue
+  link: venue
+- name: Registration
+  link: https://www.ieee-security.org/TC/EuroSP2020/
+
+# Configuration for asides.html
+asides:
+  github: false
+  links: false
+  # tweets: false
+
+# google_analytics:
+#    account: UA-XXXXX-X
+
+# google_plus_one:
+#   size: medium
+
+# twitter:
+#   username: ?
+#   count: 5
+#   exclude_replies: true
+#   show_screen_name: true
+#   show_follower_count: false
+#   widget_id: ?
+
+github:
+   username: future-proof-iot
+   count: 10
