@@ -17,8 +17,8 @@ baseurl: https://future-proof-iot.github.io/Tutorial/
 #  date: June 19, 2020
 
 # Configuration for site
-title: IEEE EuroS&P RIOT Tutorial
-description: June 19th, 2020, Genova, Italy
+title: IEEE EuroS&P Tutorial: IoT Security Hands-on with Microcontrollers & RIOT
+description: Sept. 11th, 2020, Genova, Italy
 author: Organizers
 email:
 logo: images/RIOT-logo.png
@@ -30,14 +30,10 @@ permalink: /:page.html
 navbar_list:
 - name: Home
   link: /
-- name: Background
-  link: background
-- name: Agenda
-  link: agenda
-- name: Preparation
+- name: Prerequisites
   link: preparation
-- name: Call for Participation
-  link: call-for-participation
+- name: Participation
+  link: participation
 - name: Venue
   link: venue
 #- name: Registration
