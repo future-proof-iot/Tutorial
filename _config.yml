@@ -17,7 +17,7 @@ baseurl: https://future-proof-iot.github.io/Tutorial/
 #  date: June 19, 2020
 
 # Configuration for site
-title: IEEE EuroS&P Tutorial: IoT Security Hands-on with Microcontrollers & RIOT
+title: IEEE EuroS&P Tutorial on IoT Security with Microcontrollers & RIOT
 description: Sept. 11th, 2020, Genova, Italy
 author: Organizers
 email:
