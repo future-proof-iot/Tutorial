@@ -11,7 +11,7 @@ The tutorial taking place online-only, participants will be provided remote acce
 
 ## News
 
-- 23.07.2020. Schedule: the tutorial will take place online, on Sept. 11th, from 12:30 to 16:00 CET
+- 23.07.2020. Schedule: the tutorial will take place on Sept. 11th, from 12:30 to 16:00 CET.
 - 21.07.2020. COVID-19 UPDATE: the tutorial will be fully-digital, online only.
 - 11.03.2020. Preliminary website is on!
 
