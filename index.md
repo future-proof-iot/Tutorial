@@ -3,9 +3,9 @@ layout: default
 title: Welcome to the IEEE EuroS&P Tutorial on IoT Security with Microcontrollers & RIOT
 ---
 
-# The IEEE EuroS&P Tutorial on IoT Security with Microcontrollers & RIOT
+# Tutorial
 
-Participants in this tutorial will be led through hands-on activities with IoT on low-power microcontroller-based devices. We will be using [RIOT](https://github.com/RIOT-OS/RIOT) with a focus on using the cybersecurity primitives available with this operating system on such low-end IoT hardware (e.g., ARM Cortex-M, RISC-V, ESP32, AVR, MSP430 microcontrollers).
+This tutorial takes place in the context of IEEE EuroS&P. Participants will be led through hands-on activities with IoT on low-power microcontroller-based devices. We will be using [RIOT](https://github.com/RIOT-OS/RIOT) with a focus on using the cybersecurity primitives available with this operating system on such low-end IoT hardware (e.g., ARM Cortex-M, RISC-V, ESP32, AVR, MSP430 microcontrollers).
 The tutorial taking place online-only, participants will be provided remote access to an adequate IoT testbed ([FIT IoT-lab](https://www.iot-lab.info/)).
 
 
