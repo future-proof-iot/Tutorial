@@ -10,6 +10,7 @@ the tutorial is fully digital, taking place only online (due to the COVID-19 sit
 
 # Schedule
 
-The tutorial will take place online, on Sept. 11th, from 12:30 to 16:00 CET.
+The tutorial will take place online, on Sept. 11th, from 12:30 to 16:00 CEST.
+
 
 
