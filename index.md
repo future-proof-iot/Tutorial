@@ -22,6 +22,7 @@ The tutorial taking place online-only, participants will be provided remote acce
 - [FU Berlin ](https://www.fu-berlin.de/)
 - [RIOT](https://riot-os.org/)
 - [H2020 SPARTA](https://www.sparta.eu/)
+- [The RIOT-fp Project](https://future-proof-iot.github.io/RIOT-fp/)
 
 
 ## Organizers
