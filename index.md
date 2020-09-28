@@ -9,12 +9,9 @@ This tutorial takes place in the context of IEEE EuroS&P. Participants will be l
 The tutorial taking place online-only, participants will be provided remote access to an adequate IoT testbed.
 
 
-## News
+## Workflow
 
-- 07.09.2020. Tutorial workflow available: check it out over [here](https://riot-os.github.io/riot-course/slides/tutorial-summit-security/).
-- 04.09.2020. Setup update: no preliminary setup necessary! We will use only in-browser tools.
-- 23.07.2020. Schedule: the tutorial will take place on Sept. 11th, from 12:30 to 16:00 CET.
-- 21.07.2020. COVID-19 UPDATE: the tutorial will be fully-digital, online only.
+The tutorial workflow is outlined [here](https://riot-os.github.io/riot-course/slides/tutorial-summit-security/). No preliminary setup necessary! We use a combination of common in-browser tools, open source embedded code [RIOT](https://github.com/RIOT-OS/RIOT) and a remotely accessible open-access testbed ([FIT IoT-Lab](https://www.iot-lab.info/)).
 
 ## Supporters
 
